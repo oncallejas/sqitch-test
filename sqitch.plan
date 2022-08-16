@@ -4,3 +4,5 @@
 
 appschema 2022-08-16T14:58:32Z Oscar Tisnado <oncallejas@stefanini.com> # App user and shema for all flipr object
 users [appschema] 2022-08-16T22:01:06Z Oscar Tisnado <oncallejas@stefanini.com> # Create table to track our users
+insert_user [users appschema] 2022-08-16T22:12:39Z Oscar Tisnado <oncallejas@stefanini.com> # Creates a function to insert a user.
+change_pass [users appschema] 2022-08-16T22:13:32Z Oscar Tisnado <oncallejas@stefanini.com> # Create a function to change a user password.
