@@ -3,3 +3,4 @@
 %uri=https://github.com/oncallejas/sqitch-test.git
 
 appschema 2022-08-16T14:58:32Z Oscar Tisnado <oncallejas@stefanini.com> # App user and shema for all flipr object
+users [appschema] 2022-08-16T22:01:06Z Oscar Tisnado <oncallejas@stefanini.com> # Create table to track our users
