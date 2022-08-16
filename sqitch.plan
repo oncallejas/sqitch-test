@@ -9,3 +9,5 @@ change_pass [users appschema] 2022-08-16T22:13:32Z Oscar Tisnado <oncallejas@ste
 @v1.0.0-dev1 2022-08-16T22:34:09Z Oscar Tisnado <oncallejas@stefanini.com> # Tag v1.0.0-dev1.
 
 flips [appschema users] 2022-08-16T22:43:22Z Oscar Tisnado <oncallejas@stefanini.com> # Add table for storing flips
+insert_flip [flips appschema] 2022-08-16T22:49:20Z Oscar Tisnado <oncallejas@stefanini.com> # Adding insert_flip
+delete_flip [flips appschema] 2022-08-16T22:49:51Z Oscar Tisnado <oncallejas@stefanini.com> # Adding delete_flip
